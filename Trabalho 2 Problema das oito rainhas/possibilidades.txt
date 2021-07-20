@@ -1,0 +1,2996 @@
+Possibilidade 1
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	.	R	.	.	.
+
+3 	.	.	.	.	.	.	.	R
+
+4 	.	R	.	.	.	.	.	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	.	.	.	.	R	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 4
+
+coluna [2] = linha 7
+
+coluna [3] = linha 5
+
+coluna [4] = linha 2
+
+coluna [5] = linha 6
+
+coluna [6] = linha 1
+
+coluna [7] = linha 3
+Possibilidade 2
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	R	.	.	.	.
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	.	.	.	.	.	R
+
+5 	.	R	.	.	.	.	.	.
+
+6 	.	.	.	.	R	.	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 5
+
+coluna [2] = linha 7
+
+coluna [3] = linha 2
+
+coluna [4] = linha 6
+
+coluna [5] = linha 3
+
+coluna [6] = linha 1
+
+coluna [7] = linha 4
+Possibilidade 3
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	R	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	R	.	.	.	.	.
+
+4 	.	.	.	.	.	.	R	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	.	R	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 3
+
+coluna [3] = linha 5
+
+coluna [4] = linha 7
+
+coluna [5] = linha 1
+
+coluna [6] = linha 4
+
+coluna [7] = linha 2
+Possibilidade 4
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	R	.	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	R	.	.	.	.	.
+
+5 	.	.	.	.	.	.	R	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	R	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 4
+
+coluna [3] = linha 7
+
+coluna [4] = linha 1
+
+coluna [5] = linha 3
+
+coluna [6] = linha 5
+
+coluna [7] = linha 2
+Possibilidade 5
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	.	R	.	.	.
+
+3 	.	.	.	.	.	.	.	R
+
+4 	.	R	.	.	.	.	.	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	.	.	.	.	R	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 4
+
+coluna [2] = linha 7
+
+coluna [3] = linha 5
+
+coluna [4] = linha 2
+
+coluna [5] = linha 6
+
+coluna [6] = linha 1
+
+coluna [7] = linha 3
+Possibilidade 6
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	R	.	.	.	.
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	.	.	.	.	.	R
+
+5 	.	R	.	.	.	.	.	.
+
+6 	.	.	.	.	R	.	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 5
+
+coluna [2] = linha 7
+
+coluna [3] = linha 2
+
+coluna [4] = linha 6
+
+coluna [5] = linha 3
+
+coluna [6] = linha 1
+
+coluna [7] = linha 4
+Possibilidade 7
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	R	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	R	.	.	.	.	.
+
+4 	.	.	.	.	.	.	R	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	.	R	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 3
+
+coluna [3] = linha 5
+
+coluna [4] = linha 7
+
+coluna [5] = linha 1
+
+coluna [6] = linha 4
+
+coluna [7] = linha 2
+Possibilidade 8
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	R	.	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	R	.	.	.	.	.
+
+5 	.	.	.	.	.	.	R	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	R	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 4
+
+coluna [3] = linha 7
+
+coluna [4] = linha 1
+
+coluna [5] = linha 3
+
+coluna [6] = linha 5
+
+coluna [7] = linha 2
+Possibilidade 9
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	.	R	.	.	.
+
+3 	.	.	.	.	.	.	.	R
+
+4 	.	R	.	.	.	.	.	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	.	.	.	.	R	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 4
+
+coluna [2] = linha 7
+
+coluna [3] = linha 5
+
+coluna [4] = linha 2
+
+coluna [5] = linha 6
+
+coluna [6] = linha 1
+
+coluna [7] = linha 3
+Possibilidade 10
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	R	.	.	.	.
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	.	.	.	.	.	R
+
+5 	.	R	.	.	.	.	.	.
+
+6 	.	.	.	.	R	.	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 5
+
+coluna [2] = linha 7
+
+coluna [3] = linha 2
+
+coluna [4] = linha 6
+
+coluna [5] = linha 3
+
+coluna [6] = linha 1
+
+coluna [7] = linha 4
+Possibilidade 11
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	R	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	R	.	.	.	.	.
+
+4 	.	.	.	.	.	.	R	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	.	R	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 3
+
+coluna [3] = linha 5
+
+coluna [4] = linha 7
+
+coluna [5] = linha 1
+
+coluna [6] = linha 4
+
+coluna [7] = linha 2
+Possibilidade 12
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	R	.	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	R	.	.	.	.	.
+
+5 	.	.	.	.	.	.	R	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	R	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 4
+
+coluna [3] = linha 7
+
+coluna [4] = linha 1
+
+coluna [5] = linha 3
+
+coluna [6] = linha 5
+
+coluna [7] = linha 2
+Possibilidade 13
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	.	R	.	.	.
+
+3 	.	.	.	.	.	.	.	R
+
+4 	.	R	.	.	.	.	.	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	.	.	.	.	R	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 4
+
+coluna [2] = linha 7
+
+coluna [3] = linha 5
+
+coluna [4] = linha 2
+
+coluna [5] = linha 6
+
+coluna [6] = linha 1
+
+coluna [7] = linha 3
+Possibilidade 14
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	R	.	.	.	.
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	.	.	.	.	.	R
+
+5 	.	R	.	.	.	.	.	.
+
+6 	.	.	.	.	R	.	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 5
+
+coluna [2] = linha 7
+
+coluna [3] = linha 2
+
+coluna [4] = linha 6
+
+coluna [5] = linha 3
+
+coluna [6] = linha 1
+
+coluna [7] = linha 4
+Possibilidade 15
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	R	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	R	.	.	.	.	.
+
+4 	.	.	.	.	.	.	R	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	.	R	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 3
+
+coluna [3] = linha 5
+
+coluna [4] = linha 7
+
+coluna [5] = linha 1
+
+coluna [6] = linha 4
+
+coluna [7] = linha 2
+Possibilidade 16
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	R	.	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	R	.	.	.	.	.
+
+5 	.	.	.	.	.	.	R	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	R	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 4
+
+coluna [3] = linha 7
+
+coluna [4] = linha 1
+
+coluna [5] = linha 3
+
+coluna [6] = linha 5
+
+coluna [7] = linha 2
+Possibilidade 17
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	.	R	.	.	.
+
+3 	.	.	.	.	.	.	.	R
+
+4 	.	R	.	.	.	.	.	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	.	.	.	.	R	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 4
+
+coluna [2] = linha 7
+
+coluna [3] = linha 5
+
+coluna [4] = linha 2
+
+coluna [5] = linha 6
+
+coluna [6] = linha 1
+
+coluna [7] = linha 3
+Possibilidade 18
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	R	.	.	.	.
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	.	.	.	.	.	R
+
+5 	.	R	.	.	.	.	.	.
+
+6 	.	.	.	.	R	.	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 5
+
+coluna [2] = linha 7
+
+coluna [3] = linha 2
+
+coluna [4] = linha 6
+
+coluna [5] = linha 3
+
+coluna [6] = linha 1
+
+coluna [7] = linha 4
+Possibilidade 19
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	R	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	R	.	.	.	.	.
+
+4 	.	.	.	.	.	.	R	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	.	R	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 3
+
+coluna [3] = linha 5
+
+coluna [4] = linha 7
+
+coluna [5] = linha 1
+
+coluna [6] = linha 4
+
+coluna [7] = linha 2
+Possibilidade 20
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	R	.	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	R	.	.	.	.	.
+
+5 	.	.	.	.	.	.	R	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	R	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 4
+
+coluna [3] = linha 7
+
+coluna [4] = linha 1
+
+coluna [5] = linha 3
+
+coluna [6] = linha 5
+
+coluna [7] = linha 2
+Possibilidade 21
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	.	R	.	.	.
+
+3 	.	.	.	.	.	.	.	R
+
+4 	.	R	.	.	.	.	.	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	.	.	.	.	R	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 4
+
+coluna [2] = linha 7
+
+coluna [3] = linha 5
+
+coluna [4] = linha 2
+
+coluna [5] = linha 6
+
+coluna [6] = linha 1
+
+coluna [7] = linha 3
+Possibilidade 22
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	R	.	.	.	.
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	.	.	.	.	.	R
+
+5 	.	R	.	.	.	.	.	.
+
+6 	.	.	.	.	R	.	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 5
+
+coluna [2] = linha 7
+
+coluna [3] = linha 2
+
+coluna [4] = linha 6
+
+coluna [5] = linha 3
+
+coluna [6] = linha 1
+
+coluna [7] = linha 4
+Possibilidade 23
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	R	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	R	.	.	.	.	.
+
+4 	.	.	.	.	.	.	R	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	.	R	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 3
+
+coluna [3] = linha 5
+
+coluna [4] = linha 7
+
+coluna [5] = linha 1
+
+coluna [6] = linha 4
+
+coluna [7] = linha 2
+Possibilidade 24
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	R	.	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	R	.	.	.	.	.
+
+5 	.	.	.	.	.	.	R	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	R	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 4
+
+coluna [3] = linha 7
+
+coluna [4] = linha 1
+
+coluna [5] = linha 3
+
+coluna [6] = linha 5
+
+coluna [7] = linha 2
+Possibilidade 25
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	.	R	.	.	.
+
+3 	.	.	.	.	.	.	.	R
+
+4 	.	R	.	.	.	.	.	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	.	.	.	.	R	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 4
+
+coluna [2] = linha 7
+
+coluna [3] = linha 5
+
+coluna [4] = linha 2
+
+coluna [5] = linha 6
+
+coluna [6] = linha 1
+
+coluna [7] = linha 3
+Possibilidade 26
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	R	.	.	.	.
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	.	.	.	.	.	R
+
+5 	.	R	.	.	.	.	.	.
+
+6 	.	.	.	.	R	.	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 5
+
+coluna [2] = linha 7
+
+coluna [3] = linha 2
+
+coluna [4] = linha 6
+
+coluna [5] = linha 3
+
+coluna [6] = linha 1
+
+coluna [7] = linha 4
+Possibilidade 27
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	R	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	R	.	.	.	.	.
+
+4 	.	.	.	.	.	.	R	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	.	R	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 3
+
+coluna [3] = linha 5
+
+coluna [4] = linha 7
+
+coluna [5] = linha 1
+
+coluna [6] = linha 4
+
+coluna [7] = linha 2
+Possibilidade 28
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	R	.	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	R	.	.	.	.	.
+
+5 	.	.	.	.	.	.	R	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	R	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 4
+
+coluna [3] = linha 7
+
+coluna [4] = linha 1
+
+coluna [5] = linha 3
+
+coluna [6] = linha 5
+
+coluna [7] = linha 2
+Possibilidade 29
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	.	R	.	.	.
+
+3 	.	.	.	.	.	.	.	R
+
+4 	.	R	.	.	.	.	.	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	.	.	.	.	R	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 4
+
+coluna [2] = linha 7
+
+coluna [3] = linha 5
+
+coluna [4] = linha 2
+
+coluna [5] = linha 6
+
+coluna [6] = linha 1
+
+coluna [7] = linha 3
+Possibilidade 30
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	R	.	.	.	.
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	.	.	.	.	.	R
+
+5 	.	R	.	.	.	.	.	.
+
+6 	.	.	.	.	R	.	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 5
+
+coluna [2] = linha 7
+
+coluna [3] = linha 2
+
+coluna [4] = linha 6
+
+coluna [5] = linha 3
+
+coluna [6] = linha 1
+
+coluna [7] = linha 4
+Possibilidade 31
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	R	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	R	.	.	.	.	.
+
+4 	.	.	.	.	.	.	R	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	.	R	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 3
+
+coluna [3] = linha 5
+
+coluna [4] = linha 7
+
+coluna [5] = linha 1
+
+coluna [6] = linha 4
+
+coluna [7] = linha 2
+Possibilidade 32
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	R	.	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	R	.	.	.	.	.
+
+5 	.	.	.	.	.	.	R	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	R	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 4
+
+coluna [3] = linha 7
+
+coluna [4] = linha 1
+
+coluna [5] = linha 3
+
+coluna [6] = linha 5
+
+coluna [7] = linha 2
+Possibilidade 33
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	.	R	.	.	.
+
+3 	.	.	.	.	.	.	.	R
+
+4 	.	R	.	.	.	.	.	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	.	.	.	.	R	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 4
+
+coluna [2] = linha 7
+
+coluna [3] = linha 5
+
+coluna [4] = linha 2
+
+coluna [5] = linha 6
+
+coluna [6] = linha 1
+
+coluna [7] = linha 3
+Possibilidade 34
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	R	.	.	.	.
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	.	.	.	.	.	R
+
+5 	.	R	.	.	.	.	.	.
+
+6 	.	.	.	.	R	.	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 5
+
+coluna [2] = linha 7
+
+coluna [3] = linha 2
+
+coluna [4] = linha 6
+
+coluna [5] = linha 3
+
+coluna [6] = linha 1
+
+coluna [7] = linha 4
+Possibilidade 35
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	R	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	R	.	.	.	.	.
+
+4 	.	.	.	.	.	.	R	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	.	R	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 3
+
+coluna [3] = linha 5
+
+coluna [4] = linha 7
+
+coluna [5] = linha 1
+
+coluna [6] = linha 4
+
+coluna [7] = linha 2
+Possibilidade 36
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	R	.	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	R	.	.	.	.	.
+
+5 	.	.	.	.	.	.	R	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	R	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 4
+
+coluna [3] = linha 7
+
+coluna [4] = linha 1
+
+coluna [5] = linha 3
+
+coluna [6] = linha 5
+
+coluna [7] = linha 2
+Possibilidade 37
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	.	R	.	.	.
+
+3 	.	.	.	.	.	.	.	R
+
+4 	.	R	.	.	.	.	.	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	.	.	.	.	R	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 4
+
+coluna [2] = linha 7
+
+coluna [3] = linha 5
+
+coluna [4] = linha 2
+
+coluna [5] = linha 6
+
+coluna [6] = linha 1
+
+coluna [7] = linha 3
+Possibilidade 38
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	R	.	.	.	.
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	.	.	.	.	.	R
+
+5 	.	R	.	.	.	.	.	.
+
+6 	.	.	.	.	R	.	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 5
+
+coluna [2] = linha 7
+
+coluna [3] = linha 2
+
+coluna [4] = linha 6
+
+coluna [5] = linha 3
+
+coluna [6] = linha 1
+
+coluna [7] = linha 4
+Possibilidade 39
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	R	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	R	.	.	.	.	.
+
+4 	.	.	.	.	.	.	R	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	.	R	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 3
+
+coluna [3] = linha 5
+
+coluna [4] = linha 7
+
+coluna [5] = linha 1
+
+coluna [6] = linha 4
+
+coluna [7] = linha 2
+Possibilidade 40
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	R	.	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	R	.	.	.	.	.
+
+5 	.	.	.	.	.	.	R	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	R	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 4
+
+coluna [3] = linha 7
+
+coluna [4] = linha 1
+
+coluna [5] = linha 3
+
+coluna [6] = linha 5
+
+coluna [7] = linha 2
+Possibilidade 41
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	.	R	.	.	.
+
+3 	.	.	.	.	.	.	.	R
+
+4 	.	R	.	.	.	.	.	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	.	.	.	.	R	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 4
+
+coluna [2] = linha 7
+
+coluna [3] = linha 5
+
+coluna [4] = linha 2
+
+coluna [5] = linha 6
+
+coluna [6] = linha 1
+
+coluna [7] = linha 3
+Possibilidade 42
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	R	.	.	.	.
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	.	.	.	.	.	R
+
+5 	.	R	.	.	.	.	.	.
+
+6 	.	.	.	.	R	.	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 5
+
+coluna [2] = linha 7
+
+coluna [3] = linha 2
+
+coluna [4] = linha 6
+
+coluna [5] = linha 3
+
+coluna [6] = linha 1
+
+coluna [7] = linha 4
+Possibilidade 43
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	R	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	R	.	.	.	.	.
+
+4 	.	.	.	.	.	.	R	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	.	R	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 3
+
+coluna [3] = linha 5
+
+coluna [4] = linha 7
+
+coluna [5] = linha 1
+
+coluna [6] = linha 4
+
+coluna [7] = linha 2
+Possibilidade 44
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	R	.	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	R	.	.	.	.	.
+
+5 	.	.	.	.	.	.	R	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	R	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 4
+
+coluna [3] = linha 7
+
+coluna [4] = linha 1
+
+coluna [5] = linha 3
+
+coluna [6] = linha 5
+
+coluna [7] = linha 2
+Possibilidade 45
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	.	R	.	.	.
+
+3 	.	.	.	.	.	.	.	R
+
+4 	.	R	.	.	.	.	.	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	.	.	.	.	R	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 4
+
+coluna [2] = linha 7
+
+coluna [3] = linha 5
+
+coluna [4] = linha 2
+
+coluna [5] = linha 6
+
+coluna [6] = linha 1
+
+coluna [7] = linha 3
+Possibilidade 46
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	R	.	.	.	.
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	.	.	.	.	.	R
+
+5 	.	R	.	.	.	.	.	.
+
+6 	.	.	.	.	R	.	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 5
+
+coluna [2] = linha 7
+
+coluna [3] = linha 2
+
+coluna [4] = linha 6
+
+coluna [5] = linha 3
+
+coluna [6] = linha 1
+
+coluna [7] = linha 4
+Possibilidade 47
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	R	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	R	.	.	.	.	.
+
+4 	.	.	.	.	.	.	R	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	.	R	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 3
+
+coluna [3] = linha 5
+
+coluna [4] = linha 7
+
+coluna [5] = linha 1
+
+coluna [6] = linha 4
+
+coluna [7] = linha 2
+Possibilidade 48
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	R	.	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	R	.	.	.	.	.
+
+5 	.	.	.	.	.	.	R	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	R	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 4
+
+coluna [3] = linha 7
+
+coluna [4] = linha 1
+
+coluna [5] = linha 3
+
+coluna [6] = linha 5
+
+coluna [7] = linha 2
+Possibilidade 49
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	.	R	.	.	.
+
+3 	.	.	.	.	.	.	.	R
+
+4 	.	R	.	.	.	.	.	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	.	.	.	.	R	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 4
+
+coluna [2] = linha 7
+
+coluna [3] = linha 5
+
+coluna [4] = linha 2
+
+coluna [5] = linha 6
+
+coluna [6] = linha 1
+
+coluna [7] = linha 3
+Possibilidade 50
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	R	.	.	.	.
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	.	.	.	.	.	R
+
+5 	.	R	.	.	.	.	.	.
+
+6 	.	.	.	.	R	.	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 5
+
+coluna [2] = linha 7
+
+coluna [3] = linha 2
+
+coluna [4] = linha 6
+
+coluna [5] = linha 3
+
+coluna [6] = linha 1
+
+coluna [7] = linha 4
+Possibilidade 51
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	R	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	R	.	.	.	.	.
+
+4 	.	.	.	.	.	.	R	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	.	R	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 3
+
+coluna [3] = linha 5
+
+coluna [4] = linha 7
+
+coluna [5] = linha 1
+
+coluna [6] = linha 4
+
+coluna [7] = linha 2
+Possibilidade 52
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	R	.	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	R	.	.	.	.	.
+
+5 	.	.	.	.	.	.	R	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	R	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 4
+
+coluna [3] = linha 7
+
+coluna [4] = linha 1
+
+coluna [5] = linha 3
+
+coluna [6] = linha 5
+
+coluna [7] = linha 2
+Possibilidade 53
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	.	R	.	.	.
+
+3 	.	.	.	.	.	.	.	R
+
+4 	.	R	.	.	.	.	.	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	.	.	.	.	R	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 4
+
+coluna [2] = linha 7
+
+coluna [3] = linha 5
+
+coluna [4] = linha 2
+
+coluna [5] = linha 6
+
+coluna [6] = linha 1
+
+coluna [7] = linha 3
+Possibilidade 54
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	R	.	.	.	.
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	.	.	.	.	.	R
+
+5 	.	R	.	.	.	.	.	.
+
+6 	.	.	.	.	R	.	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 5
+
+coluna [2] = linha 7
+
+coluna [3] = linha 2
+
+coluna [4] = linha 6
+
+coluna [5] = linha 3
+
+coluna [6] = linha 1
+
+coluna [7] = linha 4
+Possibilidade 55
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	R	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	R	.	.	.	.	.
+
+4 	.	.	.	.	.	.	R	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	.	R	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 3
+
+coluna [3] = linha 5
+
+coluna [4] = linha 7
+
+coluna [5] = linha 1
+
+coluna [6] = linha 4
+
+coluna [7] = linha 2
+Possibilidade 56
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	R	.	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	R	.	.	.	.	.
+
+5 	.	.	.	.	.	.	R	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	R	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 4
+
+coluna [3] = linha 7
+
+coluna [4] = linha 1
+
+coluna [5] = linha 3
+
+coluna [6] = linha 5
+
+coluna [7] = linha 2
+Possibilidade 57
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	.	R	.	.	.
+
+3 	.	.	.	.	.	.	.	R
+
+4 	.	R	.	.	.	.	.	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	.	.	.	.	R	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 4
+
+coluna [2] = linha 7
+
+coluna [3] = linha 5
+
+coluna [4] = linha 2
+
+coluna [5] = linha 6
+
+coluna [6] = linha 1
+
+coluna [7] = linha 3
+Possibilidade 58
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	R	.	.	.	.
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	.	.	.	.	.	R
+
+5 	.	R	.	.	.	.	.	.
+
+6 	.	.	.	.	R	.	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 5
+
+coluna [2] = linha 7
+
+coluna [3] = linha 2
+
+coluna [4] = linha 6
+
+coluna [5] = linha 3
+
+coluna [6] = linha 1
+
+coluna [7] = linha 4
+Possibilidade 59
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	R	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	R	.	.	.	.	.
+
+4 	.	.	.	.	.	.	R	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	.	R	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 3
+
+coluna [3] = linha 5
+
+coluna [4] = linha 7
+
+coluna [5] = linha 1
+
+coluna [6] = linha 4
+
+coluna [7] = linha 2
+Possibilidade 60
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	R	.	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	R	.	.	.	.	.
+
+5 	.	.	.	.	.	.	R	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	R	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 4
+
+coluna [3] = linha 7
+
+coluna [4] = linha 1
+
+coluna [5] = linha 3
+
+coluna [6] = linha 5
+
+coluna [7] = linha 2
+Possibilidade 61
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	.	R	.	.	.
+
+3 	.	.	.	.	.	.	.	R
+
+4 	.	R	.	.	.	.	.	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	.	.	.	.	R	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 4
+
+coluna [2] = linha 7
+
+coluna [3] = linha 5
+
+coluna [4] = linha 2
+
+coluna [5] = linha 6
+
+coluna [6] = linha 1
+
+coluna [7] = linha 3
+Possibilidade 62
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	R	.	.	.	.
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	.	.	.	.	.	R
+
+5 	.	R	.	.	.	.	.	.
+
+6 	.	.	.	.	R	.	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 5
+
+coluna [2] = linha 7
+
+coluna [3] = linha 2
+
+coluna [4] = linha 6
+
+coluna [5] = linha 3
+
+coluna [6] = linha 1
+
+coluna [7] = linha 4
+Possibilidade 63
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	R	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	R	.	.	.	.	.
+
+4 	.	.	.	.	.	.	R	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	.	R	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 3
+
+coluna [3] = linha 5
+
+coluna [4] = linha 7
+
+coluna [5] = linha 1
+
+coluna [6] = linha 4
+
+coluna [7] = linha 2
+Possibilidade 64
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	R	.	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	R	.	.	.	.	.
+
+5 	.	.	.	.	.	.	R	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	R	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 4
+
+coluna [3] = linha 7
+
+coluna [4] = linha 1
+
+coluna [5] = linha 3
+
+coluna [6] = linha 5
+
+coluna [7] = linha 2
+Possibilidade 65
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	.	R	.	.	.
+
+3 	.	.	.	.	.	.	.	R
+
+4 	.	R	.	.	.	.	.	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	.	.	.	.	R	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 4
+
+coluna [2] = linha 7
+
+coluna [3] = linha 5
+
+coluna [4] = linha 2
+
+coluna [5] = linha 6
+
+coluna [6] = linha 1
+
+coluna [7] = linha 3
+Possibilidade 66
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	R	.	.	.	.
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	.	.	.	.	.	R
+
+5 	.	R	.	.	.	.	.	.
+
+6 	.	.	.	.	R	.	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 5
+
+coluna [2] = linha 7
+
+coluna [3] = linha 2
+
+coluna [4] = linha 6
+
+coluna [5] = linha 3
+
+coluna [6] = linha 1
+
+coluna [7] = linha 4
+Possibilidade 67
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	R	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	R	.	.	.	.	.
+
+4 	.	.	.	.	.	.	R	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	.	R	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 3
+
+coluna [3] = linha 5
+
+coluna [4] = linha 7
+
+coluna [5] = linha 1
+
+coluna [6] = linha 4
+
+coluna [7] = linha 2
+Possibilidade 68
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	R	.	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	R	.	.	.	.	.
+
+5 	.	.	.	.	.	.	R	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	R	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 4
+
+coluna [3] = linha 7
+
+coluna [4] = linha 1
+
+coluna [5] = linha 3
+
+coluna [6] = linha 5
+
+coluna [7] = linha 2
+Possibilidade 69
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	.	R	.	.	.
+
+3 	.	.	.	.	.	.	.	R
+
+4 	.	R	.	.	.	.	.	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	.	.	.	.	R	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 4
+
+coluna [2] = linha 7
+
+coluna [3] = linha 5
+
+coluna [4] = linha 2
+
+coluna [5] = linha 6
+
+coluna [6] = linha 1
+
+coluna [7] = linha 3
+Possibilidade 70
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	R	.	.	.	.
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	.	.	.	.	.	R
+
+5 	.	R	.	.	.	.	.	.
+
+6 	.	.	.	.	R	.	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 5
+
+coluna [2] = linha 7
+
+coluna [3] = linha 2
+
+coluna [4] = linha 6
+
+coluna [5] = linha 3
+
+coluna [6] = linha 1
+
+coluna [7] = linha 4
+Possibilidade 71
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	R	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	R	.	.	.	.	.
+
+4 	.	.	.	.	.	.	R	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	.	R	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 3
+
+coluna [3] = linha 5
+
+coluna [4] = linha 7
+
+coluna [5] = linha 1
+
+coluna [6] = linha 4
+
+coluna [7] = linha 2
+Possibilidade 72
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	R	.	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	R	.	.	.	.	.
+
+5 	.	.	.	.	.	.	R	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	R	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 4
+
+coluna [3] = linha 7
+
+coluna [4] = linha 1
+
+coluna [5] = linha 3
+
+coluna [6] = linha 5
+
+coluna [7] = linha 2
+Possibilidade 73
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	.	R	.	.	.
+
+3 	.	.	.	.	.	.	.	R
+
+4 	.	R	.	.	.	.	.	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	.	.	.	.	R	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 4
+
+coluna [2] = linha 7
+
+coluna [3] = linha 5
+
+coluna [4] = linha 2
+
+coluna [5] = linha 6
+
+coluna [6] = linha 1
+
+coluna [7] = linha 3
+Possibilidade 74
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	R	.	.	.	.
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	.	.	.	.	.	R
+
+5 	.	R	.	.	.	.	.	.
+
+6 	.	.	.	.	R	.	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 5
+
+coluna [2] = linha 7
+
+coluna [3] = linha 2
+
+coluna [4] = linha 6
+
+coluna [5] = linha 3
+
+coluna [6] = linha 1
+
+coluna [7] = linha 4
+Possibilidade 75
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	R	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	R	.	.	.	.	.
+
+4 	.	.	.	.	.	.	R	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	.	R	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 3
+
+coluna [3] = linha 5
+
+coluna [4] = linha 7
+
+coluna [5] = linha 1
+
+coluna [6] = linha 4
+
+coluna [7] = linha 2
+Possibilidade 76
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	R	.	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	R	.	.	.	.	.
+
+5 	.	.	.	.	.	.	R	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	R	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 4
+
+coluna [3] = linha 7
+
+coluna [4] = linha 1
+
+coluna [5] = linha 3
+
+coluna [6] = linha 5
+
+coluna [7] = linha 2
+Possibilidade 77
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	.	R	.	.	.
+
+3 	.	.	.	.	.	.	.	R
+
+4 	.	R	.	.	.	.	.	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	.	.	.	.	R	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 4
+
+coluna [2] = linha 7
+
+coluna [3] = linha 5
+
+coluna [4] = linha 2
+
+coluna [5] = linha 6
+
+coluna [6] = linha 1
+
+coluna [7] = linha 3
+Possibilidade 78
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	R	.	.	.	.
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	.	.	.	.	.	R
+
+5 	.	R	.	.	.	.	.	.
+
+6 	.	.	.	.	R	.	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 5
+
+coluna [2] = linha 7
+
+coluna [3] = linha 2
+
+coluna [4] = linha 6
+
+coluna [5] = linha 3
+
+coluna [6] = linha 1
+
+coluna [7] = linha 4
+Possibilidade 79
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	R	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	R	.	.	.	.	.
+
+4 	.	.	.	.	.	.	R	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	.	R	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 3
+
+coluna [3] = linha 5
+
+coluna [4] = linha 7
+
+coluna [5] = linha 1
+
+coluna [6] = linha 4
+
+coluna [7] = linha 2
+Possibilidade 80
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	R	.	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	R	.	.	.	.	.
+
+5 	.	.	.	.	.	.	R	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	R	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 4
+
+coluna [3] = linha 7
+
+coluna [4] = linha 1
+
+coluna [5] = linha 3
+
+coluna [6] = linha 5
+
+coluna [7] = linha 2
+Possibilidade 81
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	.	R	.	.	.
+
+3 	.	.	.	.	.	.	.	R
+
+4 	.	R	.	.	.	.	.	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	.	.	.	.	R	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 4
+
+coluna [2] = linha 7
+
+coluna [3] = linha 5
+
+coluna [4] = linha 2
+
+coluna [5] = linha 6
+
+coluna [6] = linha 1
+
+coluna [7] = linha 3
+Possibilidade 82
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	R	.	.	.	.
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	.	.	.	.	.	R
+
+5 	.	R	.	.	.	.	.	.
+
+6 	.	.	.	.	R	.	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 5
+
+coluna [2] = linha 7
+
+coluna [3] = linha 2
+
+coluna [4] = linha 6
+
+coluna [5] = linha 3
+
+coluna [6] = linha 1
+
+coluna [7] = linha 4
+Possibilidade 83
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	R	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	R	.	.	.	.	.
+
+4 	.	.	.	.	.	.	R	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	.	R	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 3
+
+coluna [3] = linha 5
+
+coluna [4] = linha 7
+
+coluna [5] = linha 1
+
+coluna [6] = linha 4
+
+coluna [7] = linha 2
+Possibilidade 84
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	R	.	.	.
+
+2 	.	.	.	.	.	.	.	R
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	R	.	.	.	.	.
+
+5 	.	.	.	.	.	.	R	.
+
+6 	.	R	.	.	.	.	.	.
+
+7 	.	.	.	R	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 6
+
+coluna [2] = linha 4
+
+coluna [3] = linha 7
+
+coluna [4] = linha 1
+
+coluna [5] = linha 3
+
+coluna [6] = linha 5
+
+coluna [7] = linha 2
+Possibilidade 85
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	.	R	.	.	.
+
+3 	.	.	.	.	.	.	.	R
+
+4 	.	R	.	.	.	.	.	.
+
+5 	.	.	.	R	.	.	.	.
+
+6 	.	.	.	.	.	R	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = linha 0
+
+coluna [1] = linha 4
+
+coluna [2] = linha 7
+
+coluna [3] = linha 5
+
+coluna [4] = linha 2
+
+coluna [5] = linha 6
+
+coluna [6] = linha 1
+
+coluna [7] = linha 3
+Possibilidade 86
+			TABULEIRO
+
+	0	1	2	3	4	5	6	7
+
+0 	R	.	.	.	.	.	.	.
+
+1 	.	.	.	.	.	.	R	.
+
+2 	.	.	.	R	.	.	.	.
+
+3 	.	.	.	.	.	R	.	.
+
+4 	.	.	.	.	.	.	.	R
+
+5 	.	R	.	.	.	.	.	.
+
+6 	.	.	.	.	R	.	.	.
+
+7 	.	.	R	.	.	.	.	.
+coluna [0] = l

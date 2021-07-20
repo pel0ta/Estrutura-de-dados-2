@@ -1,0 +1,36 @@
+
+Programa 1 N=30: 
+numeros de ciclos de execucao: 0 em milisegundos 
+tempo de execucao:  0 em segundos  
+numero de Ogrande : 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 9 5 
+complexidade do algoritmo: ordem quadratica! 
+
+Programa 2 N=30: 
+numeros de ciclos de execucao: 31 em milisegundos 
+tempo de execucao:  0 em segundos  
+numero de Ogrande : 0 0 0 0 0 0 0 0 0 0 0 0 0 5 3 8 5 0 7 5 
+complexidade do algoritmo: ordem exponencial! 
+
+Programa 3 N=30: 
+numeros de ciclos de execucao: 0 em milisegundos 
+tempo de execucao:  0 em segundos  
+numero de Ogrande : 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8 1 9 3 6 
+complexidade do algoritmo: ordem exponencial! 
+
+Programa 3 N=30: 
+numeros de ciclos de execucao: 7766 em milisegundos 
+tempo de execucao:  8 segundos  
+numero de Operações : 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8 1 9 3 6 
+complexidade do algoritmo: ordem exponencial! 
+
+Programa 3 N=30: 
+numeros de ciclos de execucao: 46 em milisegundos 
+tempo de execucao:  0 segundos  
+numero de Operaçoes : 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 3 8 8 0 6 
+complexidade do algoritmo: ordem exponencial! 
+
+Programa 3 N=30: 
+numeros de ciclos de execucao: 6546 em milisegundos 
+tempo de execucao:  6 segundos  
+numero de Operaçoes : 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 3 8 8 0 6 
+complexidade do algoritmo: ordem exponencial! 

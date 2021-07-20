@@ -1,0 +1,56 @@
+
+Estados com cores
+
+ Codigo do Estado 1  nome do Estado AC Cor 1
+
+ Codigo do Estado 3  nome do Estado AP Cor 1
+
+ Codigo do Estado 7  nome do Estado DF Cor 1
+
+ Codigo do Estado 21  nome do Estado RS Cor 2
+
+ Codigo do Estado 23  nome do Estado RR Cor 1
+
+ Codigo do Estado 20  nome do Estado RN Cor 2
+
+ Codigo do Estado 22  nome do Estado RO Cor 3
+
+ Codigo do Estado 24  nome do Estado SC Cor 1
+
+ Codigo do Estado 26  nome do Estado SE Cor 2
+
+ Codigo do Estado 2  nome do Estado AL Cor 3
+
+ Codigo do Estado 8  nome do Estado ES Cor 4
+
+ Codigo do Estado 15  nome do Estado PB Cor 3
+
+ Codigo do Estado 16  nome do Estado PR Cor 2
+
+ Codigo do Estado 19  nome do Estado RJ Cor 3
+
+ Codigo do Estado 6  nome do Estado CE Cor 1
+
+ Codigo do Estado 10  nome do Estado MA Cor 4
+
+ Codigo do Estado 18  nome do Estado PI Cor 3
+
+ Codigo do Estado 25  nome do Estado SP Cor 1
+
+ Codigo do Estado 4  nome do Estado AM Cor 2
+
+ Codigo do Estado 12  nome do Estado MS Cor 4
+
+ Codigo do Estado 14  nome do Estado PA Cor 3
+
+ Codigo do Estado 17  nome do Estado PE Cor 2
+
+ Codigo do Estado 27  nome do Estado TO Cor 2
+
+ Codigo do Estado 9  nome do Estado GO Cor 3
+
+ Codigo do Estado 11  nome do Estado MT Cor 1
+
+ Codigo do Estado 13  nome do Estado MG Cor 2
+
+ Codigo do Estado 5  nome do Estado BA Cor 1
